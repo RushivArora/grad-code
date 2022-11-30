@@ -1,0 +1,20 @@
+Runs 1-5:
+
+LR = 0.0007
+Done when avg rewards > 0.85
+Average rewards calculated over last 50 runs
+Max Episode Steps = 200
+
+Runs 5 - 10
+
+LR = 0.0007
+Done when avg rewards > 0.85
+Average rewards calculated over last 50 runs
+Max Episode Steps = 50
+
+Runs 14 - 15
+
+LR = 0.0007
+Done when avg rewards > 0.85
+Average rewards calculated over last 100 runs
+Max Episode Steps = 50

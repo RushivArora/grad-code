@@ -1,0 +1,13 @@
+Runs 1-4:
+
+LR = 0.00025
+Done when avg rewards > 0.85
+Average rewards calculated over last 100 runs
+Error in diistance: foorgot absolute value for Manhattan Distance in State
+
+Runs 5 - 
+
+LR = 0.0001
+Done when avg rewards > 0.9
+Average rewards calculated over last 100 runs
+Fixed Manhattan Distance in State

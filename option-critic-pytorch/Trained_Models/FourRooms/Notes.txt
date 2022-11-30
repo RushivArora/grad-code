@@ -1,0 +1,18 @@
+Runs 1-10:
+
+LR = 0.0001
+Done when avg rewards > 0.85
+Average rewards calculated over last 100 runs
+
+Runs 11 - 13
+
+LR = 0.0001
+Done when avg rewards > 0.9
+Average rewards calculated over last 100 runs
+
+Runs 14 - 15
+
+LR = 0.0001
+Done when avg rewards > 0.9
+Average rewards calculated over last 100 runs
+Changed distance measure to remove absolute values
